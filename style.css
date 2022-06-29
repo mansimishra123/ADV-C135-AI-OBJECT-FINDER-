@@ -32,5 +32,6 @@ input{
 canvas{
     border-radius: 18px;
     box-shadow: 7px,7px,7px,white;
-    background-color: red;
+  margin-top: 90px;
+
 }
